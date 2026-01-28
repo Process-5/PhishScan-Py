@@ -2,7 +2,7 @@
 Jump to Spanish Version / Saltar a la versión en Español
 
 📋 Overview (The "Elevator Pitch")
-PhishScan Pro is a Python-based security tool designed to automate the initial analysis of suspicious emails (.eml files). Instead of manually inspecting raw code, this tool performs a "digital autopsy" of the message to determine its legitimacy. It cross-references hidden data (like origin IPs and link reputations) against global threat databases to provide a clear risk verdict in seconds.
+PhishScan is a Python-based security tool designed to automate the initial analysis of suspicious emails (.eml files). Instead of manually inspecting raw code, this tool performs a "digital autopsy" of the message to determine its legitimacy. It cross-references hidden data (like origin IPs and link reputations) against global threat databases to provide a clear risk verdict in seconds.
 
 🛠️ Technical Features
 Multi-Layered Header Analysis: Detects Domain Mismatch (Spoofing) by comparing the From field with the Return-Path.
